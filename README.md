@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I’m Logan, an enthusiastic data science student at MSU. I’ve been an analytical thinker ever since I was young, starting a social media business at the age of 14 which I grew to 350,000 followers by leveraging video metrics to curate optimally viral short-form content on Instagram. After discovering a passion for coding and working with data my freshman year at MSU, I’ve spent this past summer of 2024 self-learning advanced data science through online courses and studying for certifications.
 
-I’m currently looking for internships related to data science this coming summer of 2025. Here are a few of my most relevant skills: I teach Python at MSU as a ULA, I’m certified in Tableau for data visualization and dashboard creation, and I regularly practice database management in SQL. I’m eager to apply these skills I’ve learned to deliver meaningful impact to real-world companies. Feel free to reach out to me through LinkedIn or email.<br>
+I’m currently looking for internships related to data science this coming summer of 2025. Here are a few of my most relevant skills: I help teach Python at MSU as a ULA, I’m certified in Tableau for data visualization and dashboard creation, and I regularly practice database management in SQL. I’m eager to apply these skills I’ve learned to deliver meaningful impact to real-world companies. Feel free to reach out to me through LinkedIn or email.<br>
 
 
 ## 🌐 Socials:
